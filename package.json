@@ -1,0 +1,17 @@
+{
+  "name": "as-mob-tests",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "robot ./tests/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ssh.dev.azure.com:v3/AMBEV-SA/AS-MOB/AS-MOB-E2E"
+  },
+  "author": "",
+  "license": "ISC"
+}
